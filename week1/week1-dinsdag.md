@@ -44,6 +44,6 @@ Wat ik nieuw heb geleerd of voor het eerst zelf gedaan:
 > - **"Blij"** :smiley:  
 > - **"Gefrustreerd"** :zap:
 
----
+
 
 
