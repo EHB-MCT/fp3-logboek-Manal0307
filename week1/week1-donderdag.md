@@ -35,6 +35,7 @@ Wat ik nieuw heb geleerd of voor het eerst zelf gedaan:
 *Instructie:*  
 - Constructief tijdens dag, niet erna
 - Niet alles was afgewerkt zoals geplant  **"Gefrustreerd"** :zap:
+- Kon beter , maar tevrden van mezelf
 
 
 > **Algmeeen gevoel:**  
