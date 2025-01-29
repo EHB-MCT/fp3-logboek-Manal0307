@@ -20,13 +20,6 @@ Vandaag heb ik het volgende gedaan:
 
 
 > **Activiteiten:**  
-- In `index.html` heb ik de homepage samengesteld in het algemeen:
-  - Ik heb een sectie voor sociale media toegevoegd in de footer, met links naar verschillende platforms.
-  - Het element `<p>` met de class `footer-text` is onder de sociale media geplaatst in de footer.
-  - Ik heb twee opvallende knoppen toegevoegd aan de homepage:
-    1. "Ik wil iets goed doen"
-    2. "Ik wil mijn situatie begrijpen"
-    Beide knoppen hebben een opvallend ontwerp met afgeronde hoeken en kleurrijke achtergronden.
 
 - In de CSS `styles.css` heb ik meerdere aanpassingen doorgevoerd, waaronder:
   1. **Footer fixes**:
